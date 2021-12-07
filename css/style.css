@@ -499,8 +499,8 @@ position: relative;
     transform-origin: right center;
  }
  .newsletter{
-     background-image: url(./img/footer.jpg);
-     height: 360px;
+     background-image: url(../img/footer.jpg);
+     height: 360px; 
  }
 }
 
