@@ -499,7 +499,7 @@ position: relative;
     transform-origin: right center;
  }
  .newsletter{
-     background-image: url(/img/footer.jpg);
+     background-image: url(./img/footer.jpg);
      height: 360px;
  }
 }
